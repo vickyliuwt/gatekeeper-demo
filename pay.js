@@ -1,1 +1,1 @@
-const dbPassword = "demo1234";
+const dbPassword = process.env.DB_PASSWORD;
